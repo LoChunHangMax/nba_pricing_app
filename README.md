@@ -10,7 +10,6 @@
 - [Usage](#usage)
 - [Database Setup](#database-setup)
 - [Troubleshooting](#troubleshooting)
-- [Contributing](#contributing)
 
 ## Project Overview
 The NBA Dynamic Pricing Engine is a Streamlit application that calculates real-time ticket prices for NBA games based on factors like team popularity, player performance, fan engagement, and game context (e.g., rivalries, national TV broadcasts). Built for the 2022-2023 NBA season, it uses historical game data from an SQLite database and provides an interactive UI for teams, platforms, and fans to optimize pricing.
