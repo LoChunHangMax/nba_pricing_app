@@ -118,6 +118,10 @@ The app uses `nba.sqlite` for historical game data.
    - Ensure the file is readable:
      - Windows: Right-click `nba.sqlite` > Properties > Security > Grant Read permissions to your user.
      - macOS/Linux: Run `chmod +r nba.sqlite`.
+       
+5. User Interface
+   - Press the 3 dots on the right hand corner
+     - Go to Settings, In "Choose app theme, colors and fonts", Choose "Light"
 
 ## Troubleshooting
 - **Database Errors**:
